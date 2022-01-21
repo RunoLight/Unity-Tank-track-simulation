@@ -1,0 +1,16 @@
+{
+    "name": "EditorBehaviours",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e8d422ad08daef34ea572e0415cc1640"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
